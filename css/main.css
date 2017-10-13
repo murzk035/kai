@@ -1,0 +1,22 @@
+html, body { width: 100%; height: 100%; }
+body { transition: background-color 1s; }
+
+@font-face { font-family: "FoundersGroteskTextTest-Regular"; src: url("../fonts/FoundersGroteskTextTest-Regular.otf"); }
+@font-face { font-family: "brownstdlight"; src: url("../fonts/brown.std.light.otf"); }
+@font-face { font-family: "brownstdreg"; src: url("../fonts/brown.std.regular.otf"); }
+@font-face { font-family: "brownstdbold"; src: url("../fonts/brown.std.bold.otf"); }
+
+#wrapper { width: 1000px; margin: 0 auto; padding-top: 50px;}
+
+#wrapper2 {width: 1000px; margin: 0 auto; padding-top: 50px; }
+
+
+
+span.one, span.two, span.three, span.four{
+	font: normal 80px "FoundersGroteskTextTest-Regular";
+}
+
+span.five {
+	font: normal 23px "FoundersGroteskTextTest-Regular";
+}
+
